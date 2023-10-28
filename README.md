@@ -52,4 +52,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Servlets &amp; Filters - SpringSecurity](https://dev.to/vijay2249/servlets-filters-springsecurity-2ocd)
+- [Intro to GITHUB ACTIONS](https://dev.to/vijay2249/intro-to-github-actions-2ce)
+- [Testing with auto push and publishing](https://dev.to/vijay2249/testing-with-auto-push-and-publishing-55mc)
+- [GRUB. what is it?](https://dev.to/vijay2249/grub-what-is-it-448p)
 <!-- BLOG-POST-LIST:END -->
