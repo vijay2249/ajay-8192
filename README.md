@@ -52,8 +52,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the different types of DNS records, and what are their specific purposes?](https://dev.to/vijay2249/what-are-the-different-types-of-dns-records-and-what-are-their-specific-purposes-3ef4)
 - [Auto Publish/Release - GitHub Actions](https://dev.to/vijay2249/auto-publishrelease-github-actions-a29)
 - [Continuous Integration - GitHub Actions](https://dev.to/vijay2249/continuous-integration-github-actions-4goa)
 - [Servlets &amp; Filters - SpringSecurity](https://dev.to/vijay2249/servlets-filters-springsecurity-2ocd)
-- [Intro to GITHUB ACTIONS](https://dev.to/vijay2249/intro-to-github-actions-2ce)
 <!-- BLOG-POST-LIST:END -->
